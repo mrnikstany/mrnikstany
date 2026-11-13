@@ -1,16 +1,29 @@
-## Hi there 👋
+### Привет, я mrnikstany
 
-<!--
-**mrnikstany/mrnikstany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разработка под Minecraft: серверные плагины и клиентские моды. Работаю сам, беру ограниченное число заказов одновременно, чтобы не срывать сроки.
 
-Here are some ideas to get you started:
+**Что делаю**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Плагины: Paper, Spigot, Purpur. Механики, ивенты, режимы, интеграции, база данных.
+- Моды: Fabric, Forge, NeoForge. Клиентские функции, HUD, интерфейсы, интеграция с сервером.
+- HUD и интерфейсы: свои панели, таб, скорборд, анимации.
+- Экономика: балансы, магазины, донат-привилегии, батлпасс, кейсы.
+- Античит и защита: проверки движения, экономики, спавна предметов.
+- Оптимизация: TPS, прогрузка чанков, работа с пакетами.
+
+**Публичные репозитории**
+
+- [hud-resource-pack](https://github.com/mrnikstany/custommob-packs) - ресурспак с ассетами HUD: панели, иконки, шрифты.
+- [custommod-form](https://github.com/mrnikstany/custommod-form) - форма заявки на HTML.
+
+**Коммерческие проекты**
+
+Крупные работы (серверные ядра, клиентские агенты) не публикую. Показываю скриншоты и демонстрацию по запросу в сообществе.
+
+**Стек**
+
+`Java 25` `Paper / Spigot / Purpur` `Fabric / Forge / NeoForge` `PostgreSQL` `HikariCP` `ProtocolLib` `PacketEvents` `Maven`
+
+**Как заказать**
+
+Пишите в сообщения сообщества: https://vk.ru/javarepositories. В заявке укажите версию Minecraft, ядро или загрузчик и что нужно сделать. Оценка бесплатная, сроки и стоимость присылаю после короткого ТЗ.
