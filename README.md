@@ -13,7 +13,7 @@
 
 **Публичные репозитории**
 
-- [hud-resource-pack](https://github.com/mrnikstany/custommob-packs) - ресурспак с ассетами HUD: панели, иконки, шрифты.
+- [minecraft-server-core](https://github.com/mrnikstany/minecraft-server-core) - витрина проекта: описание возможностей и скриншоты.
 - [custommod-form](https://github.com/mrnikstany/custommod-form) - форма заявки на HTML.
 
 **Коммерческие проекты**
